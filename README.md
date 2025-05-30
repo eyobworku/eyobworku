@@ -4,7 +4,7 @@
 
 ## 🌐 Socials:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ieyobworku) [![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/ieyobworku)](https://x.com/IEyobWorkus) [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat-squeare&logo=telegram&logoColor=white)](https://t.me/ieyobworku)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ieyobworku) [![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/ieyobworku)](https://x.com/IEyobWorku) [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat-squeare&logo=telegram&logoColor=white)](https://t.me/ieyobworku)
 
 # 💻 Tech Stack:
 
